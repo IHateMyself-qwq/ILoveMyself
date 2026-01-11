@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Init.md",
+                "file": "风堇owo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Init"
+              "title": "风堇owo"
             }
           }
         ]
@@ -183,9 +183,12 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "f20f3aff2fec32f3",
+  "active": "7d8ecf6799a10bc3",
   "lastOpenFiles": [
     "Images/Snipaste_2026-01-11_23-44-17.png",
-    "Init.md"
+    "风堇owo.md",
+    "Images/Snip.md",
+    "Images/Snipaste_2026-01-12_00-28-51.png",
+    "Pasted image 20260112002835.png"
   ]
 }
