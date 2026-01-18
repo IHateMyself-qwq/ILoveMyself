@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "风堇owo"
             }
+          },
+          {
+            "id": "75ab5411f2237453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UnityStockingRendering/Unity风格化丝袜渲染.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unity风格化丝袜渲染"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +198,32 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "f20f3aff2fec32f3",
+  "active": "75ab5411f2237453",
   "lastOpenFiles": [
-    "Images/Snipaste_2026-01-11_23-44-17.md",
+    "Blender/WhiteStocking_MIZI_Bl45.blend",
+    "Blender/WhiteStocking_MIZI_Bl45_Origin.blend",
+    "UnityStockingRendering/StockingWrinkle.15656.pur-journal",
+    "UnityStockingRendering/StockingWrinkle.15656.pur",
+    "UnityStockingRendering/StockingWrinkle.7668.pur-journal",
+    "UnityStockingRendering/StockingWrinkle.7668.pur",
+    "UnityStockingRendering/StockingWrinkle.pur",
+    "丝袜渲染.md",
+    "UnityStockingRendering/图片暂存/Stocking_WeaveTexture1.png",
+    "UnityStockingRendering/图片暂存/Stocking_StockingColor1.png",
+    "UnityStockingRendering/图片暂存/Stocking_Strenth.png",
+    "UnityStockingRendering/图片暂存/Stocking_TearMask.png",
+    "UnityStockingRendering/图片暂存/Stocking_WeaveTexture.png",
+    "UnityStockingRendering/图片暂存/Stocking_StockingColor.png",
+    "UnityStockingRendering/图片暂存/Stocking_Skin3.png",
+    "UnityStockingRendering/图片暂存/Stocking_Skin1.png",
+    "UnityStockingRendering/图片暂存/Stocking_Skin2.png",
+    "UnityStockingRendering/图片暂存/Stocking_Final2.png",
+    "UnityStockingRendering/图片暂存",
+    "UnityStockingRendering/Unity风格化丝袜渲染.md",
+    "UnityStockingRendering",
     "风堇owo.md",
-    "Images/Snipaste_2026-01-12_00-28-51.png",
-    "Images/Snipaste_2026-01-11_23-44-17.png",
-    "Images/Snip.md",
-    "Pasted image 20260112002835.png"
+    "Blender",
+    "Images/Snipaste_2026-01-11_23-44-17.md",
+    "Images/Snip.md"
   ]
 }
